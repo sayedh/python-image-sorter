@@ -18,4 +18,4 @@ In this project I use OpenCV to sort a set of pictures by removing the non-face 
 git clone https://github.com/sayedh/python-image-sorter
 cd python-image-sorter
 ```
-* Double-click on the python file and you will start seeing the pictures begin sorted. 
+* Double-click on the python file and you will start seeing the pictures begin sorting. 
