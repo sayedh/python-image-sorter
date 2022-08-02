@@ -1,5 +1,5 @@
 # Python Image Sorter
-In this project I use OpenCV to sort a set of pictures by removing the non-face picture to another folder. You are left with picture with faces only.  
+In this project I use OpenCV to sort a set of pictures by removing the non-face pictures into another folder. You are left with pictures with faces only.  
 ![Compare](https://user-images.githubusercontent.com/30685241/182486959-7b19a970-2594-4988-91a2-6066b878dad8.jpg)
 
 
